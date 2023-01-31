@@ -32,6 +32,7 @@ Here are some ideas to get you started:
       
 <br/>
 <div align="left">
+<img src="https://leetcode.com/static/images/badges/dcc-2023-1.png" alt="Jan23Challenge" style="width:50px;height:50px;">
 <img src="https://leetcode.com/static/images/badges/2022/lg/2022-annual-100.png" alt="100days" style="width:50px;height:50px;">
 <img src="https://assets.leetcode.com/static_assets/others/%E5%85%A5%E9%97%A8.png" alt="LC75_lvl1" style="width:50px;height:50px;">
 <img src="https://assets.leetcode.com/static_assets/others/%E5%9F%BA%E7%A1%80.png" alt="LC75_lvl2" style="width:50px;height:50px;">
